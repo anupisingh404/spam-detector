@@ -24,8 +24,7 @@ This project is a simple **Spam Message Detection API** powered by **FastAPI** a
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone git@github.com:anupisingh404/spam-detector.git
 ```
 
 
